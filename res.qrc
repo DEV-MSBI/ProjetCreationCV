@@ -1,0 +1,126 @@
+<RCC>
+  <qresource prefix="image">
+    <file>icon5.ico</file>
+    <file>Minus_-512.png</file>
+    <file>F:/ccna/ccna2/course/common/images/html/arrow2.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>pdf_icon.png</file>
+    <file>word_icon.png</file>
+    <file>remove1.png</file>
+    <file>remv.png</file>
+    <file>add.png</file>
+    <file>imp_img.png</file>
+    <file>724869.png</file>
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>closeAsset 43.png</file>
+    <file>filteringisp.jpg</file>
+    <file>menu1.png</file>
+    <file>menu.png</file>
+    <file>themes1.png</file>
+    <file>about.png</file>
+    <file>Home3.png</file>
+    <file>house.png</file>
+    <file>Home.png</file>
+    <file>atou1.png</file>
+    <file>auto.png</file>
+    <file>UK1.png</file>
+    <file>uk2.png</file>
+    <file>france-512.png</file>
+    <file>uk.png</file>
+    <file>themes.png</file>
+    <file>setting.png</file>
+    <file>bugAsset 47.png</file>
+    <file>cleanAsset 59.png</file>
+    <file>closeAsset 43.png</file>
+    <file>cloudAsset 48.png</file>
+    <file>dragAsset 52.png</file>
+    <file>errorAsset 55.png</file>
+    <file>gameAsset 61.png</file>
+    <file>hideAsset 53.png</file>
+    <file>homeAsset 46.png</file>
+    <file>logo.png</file>
+    <file>max.png</file>
+    <file>peopleAsset 62.png</file>
+    <file>peple.png</file>
+    <file>restore.png</file>
+    <file>settAsset 50.png</file>
+    <file>smile2Asset 1.png</file>
+    <file>smileAsset 1.png</file>
+    <file>windAsset 51.png</file>
+    <file>worldAsset 60.png</file>
+    <file>stop1.png</file>
+    <file>Stop.png</file>
+    <file>arrete.png</file>
+    <file>P1.PNG</file>
+    <file>S2.PNG</file>
+    <file>D2.PNG</file>
+    <file>M2.PNG</file>
+    <file>70957-200.png</file>
+    <file>divide-circle-outline.png</file>
+    <file>plus.png</file>
+    <file>subs.png</file>
+    <file>310679.png</file>
+    <file>Clear_button-512.png</file>
+    <file>broom_clear-512.png</file>
+    <file>img_235559.png</file>
+    <file>clear.png</file>
+    <file>clear3.png</file>
+    <file>clear1.png</file>
+    <file>clear2.png</file>
+    <file>clear-symbol.png</file>
+    <file>bin.png</file>
+    <file>hexadecimal.png</file>
+    <file>convert.png</file>
+    <file>conv1.png</file>
+    <file>conv.png</file>
+    <file>icon-pause-512.png</file>
+    <file>save.ico</file>
+    <file>icon-start-png-4.png</file>
+    <file>black_play.png</file>
+    <file>start1.png</file>
+    <file>Start-icon.png</file>
+    <file>start.png</file>
+    <file>txt.png</file>
+    <file>16Excel.ico</file>
+  </qresource>
+  <qresource prefix="img cv">
+    <file>CV5.jpg</file>
+    <file>CV6.jpg</file>
+    <file>placeholder-profile-male-500x500.png</file>
+    <file>logo cv.png</file>
+    <file>PAGE1-min-23-724x1024.jpg</file>
+    <file>PAGE1-min-22-724x1024.jpg</file>
+    <file>215-modele-cv-professionnel.jpg</file>
+    <file>PAGE1-min-21-724x1024.jpg</file>
+  </qresource>
+  <qresource prefix="loiser">
+    <file>loiser/gaming.png</file>
+    <file>loiser/icons8-basketball-48.png</file>
+    <file>loiser/icons8-boxing-glove-48.png</file>
+    <file>loiser/icons8-chess-pawn-48.png</file>
+    <file>loiser/icons8-cyclisme-de-montagne-48.png</file>
+    <file>loiser/icons8-drawing-48.png</file>
+    <file>loiser/icons8-équitation-48.png</file>
+    <file>loiser/icons8-football-2-48.png</file>
+    <file>loiser/icons8-lire-48.png</file>
+    <file>loiser/icons8-musique-48.png</file>
+    <file>loiser/icons8-natation-48.png</file>
+    <file>loiser/icons8-person-surfing-48.png</file>
+    <file>loiser/icons8-skateboard-48.png</file>
+    <file>loiser/icons8-sports-48.png</file>
+    <file>loiser/icons8-trekking-48.png</file>
+  </qresource>
+  <qresource prefix="flag">
+    <file>flag/ar.PNG</file>
+    <file>flag/chin.PNG</file>
+    <file>flag/eng.PNG</file>
+    <file>flag/esp.PNG</file>
+    <file>flag/fr.PNG</file>
+    <file>flag/germ.PNG</file>
+    <file>flag/jap.PNG</file>
+    <file>flag/russ.PNG</file>
+  </qresource>
+</RCC>
